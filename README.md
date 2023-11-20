@@ -12,7 +12,7 @@ This project is focused on analyzing job market data to derive valuable insights
 
 4. Calculate the Number of Companies Allowing Work From Home: This query counts the distinct companies that offer work-from-home options to their employees.
 
-5. Analyze Job Postings of the Big 4 Firms: The final objective is to count the job postings for the four major accounting firms (KPMG, Amazon, EY, and Deloitte) across different job posting platforms.
+5. Analyze Job Postings of the Big 4 Firms: The final objective is to count the job postings for the four major accounting firms across different job posting platforms.
 
 
 # Procedure:
